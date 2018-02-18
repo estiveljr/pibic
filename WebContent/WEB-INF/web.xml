@@ -3,7 +3,9 @@
     xmlns="java.sun.com/xml/ns/javaee" 
     xmlns:xsi="w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="java.sun.com/xml/ns/javaee java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-    metadata-complete="false">  <display-name>pibic</display-name>
+    metadata-complete="false">  
+    
+  <display-name>pibic</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
@@ -12,8 +14,4 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-    xmlns="java.sun.com/xml/ns/javaee" 
-    xmlns:xsi="w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="java.sun.com/xml/ns/javaee java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
-    metadata-complete="false">
 </web-app>
